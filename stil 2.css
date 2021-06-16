@@ -1,0 +1,21 @@
+@charset "utf-8" ;
+/* CSS Document */
+body{
+	color: blue;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+	
+}
+h1, h2 {
+	color: red;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia "serif";
+	
+}
+img {
+	height: 200px;
+	
+}
